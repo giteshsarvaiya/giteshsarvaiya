@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://komarev.com/ghpvc/?username=giteshsarvaiya)
+ 
+ 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giteshsarvaiya&theme=dark)](https://git.io/streak-stats)
