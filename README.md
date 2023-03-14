@@ -1,4 +1,5 @@
 # Hey there :wave:
+-  💪 My Stacks include Java, Python, Django, HTML, CSS, JS
 - 👀 I’m interested in DSA problem solving and Web Dev. And DevOps
 - 🌱 I’m currently learning DSA in Java and MERN stack
 
