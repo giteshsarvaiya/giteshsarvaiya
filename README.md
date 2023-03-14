@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @giteshsarvaiya
 - 👀 I’m interested in DSA problem solving and Web Dev. And DevOps
-- 🌱 I’m currently learning DSA and Django Framework
-- 💞️ I’m looking to collaborate on Django Projects and Problem Solving Hackathons
+- 🌱 I’m currently learning DSA in Java and MERN stack
 - 📫 How to reach me: 📧 gitesh.sarvaiya28@gmail.com
 
 <!---
