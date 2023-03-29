@@ -13,3 +13,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.hackerrank.com/gitesh_sarvaiya1"><img alt="Github issues" width=60 height=20 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 ### :fire: Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giteshsarvaiya&theme=dark)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carrycooldude&theme=dark)](https://git.io/streak-stats) -->
+<img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=giteshsarvaiya&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
