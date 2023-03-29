@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giteshsarvaiya&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giteshsarvaiya&theme=dark)](https://git.io/streak-stats) -->
-<img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=giteshsarvaiya&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img width="500"   align="center" src="https://github-readme-stats.vercel.app/api?username=giteshsarvaiya&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 
-<img src="https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif" width="500">
+<img src="https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif" alt="Thankyou Github!" width="500">
