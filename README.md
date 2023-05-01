@@ -8,7 +8,7 @@
 
 ### Blog
 <a href="https://hashnode.com/@Gitesh28"><img alt="Hashnode" width=60 height=20 src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
-<a href="https://www.showwcase.com/giteshsarvaiya"><img alt="Showwcase" width=60 height=20 src="https://img.shields.io/badge/-Showwcase-lightgrey">
+<a href="https://www.showwcase.com/giteshsarvaiya"><img alt="Showwcase" width=60 height=20 src="https://img.shields.io/badge/-Showwcase-inactive">
 
 <!---
 giteshsarvaiya/giteshsarvaiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
