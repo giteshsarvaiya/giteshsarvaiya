@@ -4,6 +4,7 @@
 - 👀 I’m interested in DSA problem solving and Web Dev. And DevOps
 - 🌱 I’m currently learning DSA in Java and MERN stack
 - 🤖 Bot Creator in Twitter and Discord (with the help of JS)
+
 ![](https://komarev.com/ghpvc/?username=giteshsarvaiya)
 
 ### Blog
