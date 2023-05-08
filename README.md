@@ -35,7 +35,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <a href="https://github.com/giteshsarvaiya/github-readme-activity-graph"><img alt="Gitesh Sarvaiya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=giteshsarvaiya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>
-   
+  
+
+### Trophies
+   [![trophy](https://github-profile-trophy.vercel.app/?username=giteshsarvaiya)]
    
 ### Contact me
  <a href="gitesh.sarvaiya28@gmail.com"><img alt="Github issues" width=60 height=20 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://twitter.com/SarvaiyaGitesh?t=VOOeQcm36KZF_0ainAKTxg&s=09"><img alt="Github issues" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSarvaiyaGitesh%3Ft%3DVOOeQcm36KZF_0ainAKTxg%26s%3D09"> <a href="https://www.linkedin.com/in/gitesh-sarvaiya-160b921b3"><img alt="Github issues" width=60 height=20 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
