@@ -1,6 +1,7 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&vCenter=true&width=800&color=A607FC&lines=Hi,+I+am+Gitesh!+%F0%9F%91%8B;Good+to+see+you+here!+%F0%9F%99%8F;)
 # About me 
--  💪 My Stacks include Java, Python, Django, HTML, CSS, JS
+- 🧑‍💻 Currently working on borrowEase (full stack money-lending and borrowing web app)
+- 💪 My Stacks include Java, Python, Django, HTML, CSS, JS
 - 👀 I’m interested in DSA problem solving and Web Dev. And DevOps
 - 🌱 I’m currently learning DSA in Java and MERN stack
 - 🤖 Bot Creator in Twitter and Discord (with the help of JS)
